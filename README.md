@@ -1,5 +1,9 @@
 # TIL
-Today i learned&amp;thought
+Today i learned&amp;thought<br/>
+직관에 데이터를 얹어 제 이야기에 힘을 실고 싶습니다. <br/> 
+따라서 현재 데이터 분석 공부를 하고 있습니다. <br/> 
+저의 도전 속 하루하루의 배움과 생각을 기록하고 있습니다. 📅
+
 
 ### November, 2021
 [1122](https://github.com/minanalysis/TIL/blob/main/november.2021/1122.md)
