@@ -7,4 +7,6 @@ Today i learned&amp;thought
 [1124](https://github.com/minanalysis/TIL/blob/main/november.2021/1124.md)
 [1125](https://github.com/minanalysis/TIL/blob/main/november.2021/1125.md)  <br/>
 [1129](https://github.com/minanalysis/TIL/commit/058760f1473f21b4b63bcddc362568bc427fb486)
-[1130](https://github.com/minanalysis/TIL/tree/main/november.2021)
+[1130](https://github.com/minanalysis/TIL/tree/main/november.2021)<br/>
+
+### December, 2021
