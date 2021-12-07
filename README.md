@@ -15,3 +15,4 @@ Today i learned&amp;thought<br/>
 
 ### December, 2021
 [1201](https://github.com/minanalysis/TIL/blob/main/december.2021/1201.md)
+[1202](https://github.com/minanalysis/TIL/blob/main/december.2021/1202.md)
