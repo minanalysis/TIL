@@ -17,3 +17,4 @@ Today i learned&amp;thought<br/>
 [1201](https://github.com/minanalysis/TIL/blob/main/december.2021/1201.md)
 [1202](https://github.com/minanalysis/TIL/blob/main/december.2021/1202.md)
 [1203](https://github.com/minanalysis/TIL/blob/main/december.2021/1203.md)
+[1204]
