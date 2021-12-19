@@ -5,16 +5,3 @@ Today i learned&amp;thought<br/>
 저의 도전 속 하루하루의 배움과 생각을 기록하고 있습니다. 📅
 
 
-### November, 2021
-[1122](https://github.com/minanalysis/TIL/blob/main/november.2021/1122.md)
-[1123](https://github.com/minanalysis/TIL/blob/main/november.2021/1123.md)
-[1124](https://github.com/minanalysis/TIL/blob/main/november.2021/1124.md)
-[1125](https://github.com/minanalysis/TIL/blob/main/november.2021/1125.md)  <br/>
-[1129](https://github.com/minanalysis/TIL/blob/main/november.2021/1129.md)
-[1130](https://github.com/minanalysis/TIL/tree/main/november.2021)<br/>
-
-### December, 2021
-[1201](https://github.com/minanalysis/TIL/blob/main/december.2021/1201.md)
-[1202](https://github.com/minanalysis/TIL/blob/main/december.2021/1202.md)
-[1203](https://github.com/minanalysis/TIL/blob/main/december.2021/1203.md)
-[1204]
