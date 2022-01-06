@@ -1,4 +1,4 @@
-- 셀렉트문에서 새로운 컬럼에 임의값 넣어서 출력하기
+- 셀렉트문에서 새로운 컬럼에 임의로 값 넣어서 출력하기
 
        : SELECT years, gubun, '수학' subject, math score FROM test_score 
 
